@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi everyone 👋, I'm Manoa
+A passionate full-stack developer 💻 from Paris
+
+- 🌱 I’m currently learning **HTML/CSS, Ruby on Rails and now, React and React Native**
+
+- 📫 How to reach me : **manoatony.pro@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
